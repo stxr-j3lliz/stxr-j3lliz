@@ -12,5 +12,4 @@
      <tr>
        <td>
          <br>
-<img width="768" height="236" alt="image" src="https://github.com/user-attachments/assets/d54788bf-6c5d-4ed5-869a-a26587e71b8a" />
-         <a  href="https://stxr-j3lliz.straw.page/">🐇!!</a>  
+         <a  href="https://stxr-j3lliz.straw.page/">🐇!!</a>  <a  href="https://stxr-j3lliz.atabook.org">🌠:!!</a>
