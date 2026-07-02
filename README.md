@@ -1,16 +1,16 @@
-## Hi there 👋
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/47875c45-1a8e-40ee-8545-33ee12e28a83" />
+<div align="center">
+      <br>
+   <div align="center">
+<details>
+<summary></summary>
+   <br>
+<p align="left">
+<ins><b><em><tr><td><br> </em></b></ins>
 
-<!--
-**stxr-j3lliz/stxr-j3lliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="3">
+     <tr>
+       <td>
+         <br>
+<img width="768" height="236" alt="image" src="https://github.com/user-attachments/assets/d54788bf-6c5d-4ed5-869a-a26587e71b8a" />
+         <a  href="https://stxr-j3lliz.straw.page/">🐇!!</a>  
